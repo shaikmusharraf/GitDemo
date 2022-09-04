@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<customer>
-	<name>Musharraf</name>
-	<age>21</age>
-</customer>	
-=======
-=======
->>>>>>> GitWork
 <product>
         <name>HP Laptop</name>
         <price>39500</price>
 </product>
-<<<<<<< HEAD
->>>>>>> GitWork
-=======
->>>>>>> GitWork
